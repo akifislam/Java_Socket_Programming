@@ -6,7 +6,7 @@
 
 ## Server
 <div align="center">
-   <img alt="server" src="./Examples/server.png"/>
+   <img alt="server" src="./Examples/server.png" height="370" width = "500"/>
 </div>
 
 <br/>
@@ -14,7 +14,7 @@
 <br/>
 ## Client
 <div align="center">
-  <img alt="client" src="./Examples/client.png"/>
+  <img alt="client" src="./Examples/client.png" height="370" width = "500"/>
 </div>
 
 <br/>
