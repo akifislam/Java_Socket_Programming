@@ -17,7 +17,7 @@
 ## Client
 
 <div align="center">
-  <img alt="client" src="./Examples/client.png" height="370" width = "500"/>
+  <img alt="client" src="./Examples/client.png" height="400" width = "500"/>
 </div>
 
 <br/>
